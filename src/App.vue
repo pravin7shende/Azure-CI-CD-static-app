@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Pravin's LLM Model</h1>
+    <h1>Gen AI prediction from ML model</h1>
 	<h2>Congratulations Pravin ! Now Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
